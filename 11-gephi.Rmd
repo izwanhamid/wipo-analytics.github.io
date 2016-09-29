@@ -13,6 +13,8 @@ We will use the Excel version of the dataset in this chapter and it can be downl
 
 ##Installing Gephi
 
+What is Gephi?
+
 Gephi is the subject of ongoing development and as with many other open source tools this has advantages and disadvantages. In the case of Gephi the issues are as follows. 
 
 1. The latest release of Gephi (version 9.1 at the time of writing) is a considerable improvement on the previous version because it removes dependency on an old version of Java. However, the Plug Ins that make it easier to work with Gephi - notably to import data directly from Excel files - have not yet been updated. This makes it harder than it should be to import data into Gephi. 
